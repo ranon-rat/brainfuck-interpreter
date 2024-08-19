@@ -36,5 +36,4 @@ The only commands that you can use when you arent using the repl are:
 
  ```
 
-![a](https://media.discordapp.net/attachments/758022287814426765/969715841434288128/unknown.png?width=1920&height=538)
-join to our discord [server](https://discord.gg/DPYXzgZQhN)
+
